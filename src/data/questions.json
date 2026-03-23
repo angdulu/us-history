@@ -1,0 +1,432 @@
+[
+  {
+    "id": "q1-carlisle-identity",
+    "stimulus": {
+      "id": "s1-carlisle",
+      "sourceType": "text",
+      "sourceTitle": "Official Report of the Carlisle Indian School",
+      "sourceAuthor": "Richard Henry Pratt",
+      "sourceDate": "1892",
+      "content": "A great general has said that the only good Indian is a dead one, and that high sanction of his destruction has been an enormous factor in promoting Indian massacres. In a sense, I agree with the sentiment, but only in this: that all the Indian there is in the race should be dead. Kill the Indian in him, and save the man.",
+      "attribution": "Richard Henry Pratt, Speech at the National Conference of Charities and Correction, 1892"
+    },
+    "questionText": "The philosophy expressed in excerpt above most directly reflects which of the following late 19th-century government goals?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The preservation of traditional Native American tribal structures through land grants.",
+        "isCorrect": false,
+        "explanation": "Pratt's philosophy was aimed at eliminating tribal identity, not preserving it."
+      },
+      {
+        "id": "b",
+        "text": "The forced assimilation of Native Americans into Euro-American cultural norms.",
+        "isCorrect": true,
+        "explanation": "The phrase 'Kill the Indian, save the man' epitomizes the policy of forced assimilation by erasing indigenous culture while integrating individuals into Western society."
+      },
+      {
+        "id": "c",
+        "text": "The granting of full immediate sovereignty to all indigenous nations within U.S. borders.",
+        "isCorrect": false,
+        "explanation": "The policy was paternalistic and aimed at control/assimilation, not sovereignty."
+      },
+      {
+        "id": "d",
+        "text": "The encouragement of cultural pluralism and bilingual education in western territories.",
+        "isCorrect": false,
+        "explanation": "Carlisle and similar schools strictly prohibited native languages and customs in favor of English-only education."
+      }
+    ],
+    "period": "Period 6",
+    "topic": "Native American Assimilation",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Inference"
+  },
+  {
+    "id": "q2-chinese-exclusion-context",
+    "stimulus": {
+      "id": "s2-chinese-exclusion",
+      "sourceType": "text",
+      "sourceTitle": "Workingmen’s Address",
+      "sourceAuthor": "Denis Kearney and H. L. Knight",
+      "sourceDate": "1878",
+      "content": "The Chinese laborer is a curse to our land, is degrading to our people, and is a standing menace to our institutions... They are in every respect a separate people... Their habits are vice; their food is filth; and they work for wages that would starve a white man.",
+      "attribution": "Denis Kearney, President of the Workingmen's Party of California, 1878"
+    },
+    "questionText": "Which of the following was a direct legislative consequence of the sentiments expressed in the excerpt during the late 19th century?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The passage of the Homestead Act to encourage western settlement.",
+        "isCorrect": false,
+        "explanation": "The Homestead Act focused on land distribution, not immigration restriction."
+      },
+      {
+        "id": "b",
+        "text": "The enactment of the Chinese Exclusion Act of 1882.",
+        "isCorrect": true,
+        "explanation": "Anti-Chinese sentiment amongst labor groups like the Workingmen's Party led directly to the federal ban on Chinese labor immigration."
+      },
+      {
+        "id": "c",
+        "text": "The establishment of the Bracero Program for temporary agricultural labor.",
+        "isCorrect": false,
+        "explanation": "The Bracero Program occurred much later, during WWII, involving Mexican labor."
+      },
+      {
+        "id": "d",
+        "text": "The Supreme Court ruling in Plessy v. Ferguson establishing 'separate but equal'.",
+        "isCorrect": false,
+        "explanation": "While both involved discrimination, Plessy v. Ferguson focused on African American segregation, not immigration."
+      }
+    ],
+    "period": "Period 6",
+    "topic": "Immigration and Nativism",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Content Knowledge"
+  },
+  {
+    "id": "q3-harlem-renaissance-ideology",
+    "stimulus": {
+      "id": "s3-new-negro",
+      "sourceType": "text",
+      "sourceTitle": "The New Negro",
+      "sourceAuthor": "Alain Locke",
+      "sourceDate": "1925",
+      "content": "The Old Negro... was a creature of moral debate and historical controversy... The Northward migration... has made the New Negro... a conscious contributor to the culture of America. For the first time, he has found a voice of his own.",
+      "attribution": "Alain Locke, The New Negro, 1925"
+    },
+    "questionText": "Alain Locke’s description of the 'New Negro' most clearly reflects which broader social development in the 1920s?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The decline of the NAACP as a legal advocacy organization.",
+        "isCorrect": false,
+        "explanation": "The NAACP remained active and influential during this period."
+      },
+      {
+        "id": "b",
+        "text": "The mass movement of African Americans to urban centers in the North and Midwest.",
+        "isCorrect": true,
+        "explanation": "Locke explicitly links the 'New Negro' to the Great Migration, which allowed for the concentrated cultural growth seen in Harlem."
+      },
+      {
+        "id": "c",
+        "text": "The total elimination of Jim Crow laws in the Southern states.",
+        "isCorrect": false,
+        "explanation": "Jim Crow laws persisted in the South throughout the 1920s."
+      },
+      {
+        "id": "d",
+        "text": "The federal government’s active sponsorship of desegregated public housing.",
+        "isCorrect": false,
+        "explanation": "The federal government did not sponsor desegregated housing in the 1920s."
+      }
+    ],
+    "period": "Period 7",
+    "topic": "Harlem Renaissance",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Inference"
+  },
+  {
+    "id": "q4-nwp-wilson",
+    "stimulus": {
+      "id": "s4-nwp",
+      "sourceType": "text",
+      "sourceTitle": "White House Picket Banner",
+      "sourceAuthor": "National Woman's Party",
+      "sourceDate": "1917",
+      "content": "President Wilson, how long must women wait for liberty? We women of America tell you that America is not a democracy. Twenty million women are denied the right to vote.",
+      "attribution": "Banner displayed by National Woman's Party picketers, 1917"
+    },
+    "questionText": "The strategy used by the NWP, as shown in the stimulus, differed from the National American Woman Suffrage Association (NAWSA) primarily because it:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Argued that women should remain in the 'domestic sphere' until the war ended.",
+        "isCorrect": false,
+        "explanation": "This was an anti-suffragist argument, not an NWP one."
+      },
+      {
+        "id": "b",
+        "text": "Utilized militant tactics and direct picketing to pressure the federal government.",
+        "isCorrect": true,
+        "explanation": "While NAWSA focused on state-by-state lobbying and supporting the war effort, the NWP used picketing, hunger strikes, and public confrontation."
+      },
+      {
+        "id": "c",
+        "text": "Opposed the 19th Amendment in favor of universal male suffrage first.",
+        "isCorrect": false,
+        "explanation": "Both organizations supported the 19th Amendment."
+      },
+      {
+        "id": "d",
+        "text": "Avoided any mention of the war in order to remain non-partisan.",
+        "isCorrect": false,
+        "explanation": "The NWP directly used wartime rhetoric ('democracy') to underscore their point."
+      }
+    ],
+    "period": "Period 7",
+    "topic": "Women's Suffrage",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Inference"
+  },
+  {
+    "id": "q5-immigration-1924-eugenics",
+    "stimulus": {
+      "id": "s5-smith",
+      "sourceType": "text",
+      "sourceTitle": "Congressional Record",
+      "sourceAuthor": "Ellison DuRant Smith",
+      "sourceDate": "1924",
+      "content": "I think we now have sufficient population in our country for us to shut the door and to breed up a pure, unadulterated American citizenship... It is for the preservation of that splendid stock that has been the hallmark of America.",
+      "attribution": "Senator Ellison DuRant Smith, Speech in the U.S. Senate, April 9, 1924"
+    },
+    "questionText": "The sentiments in the speech above were primarily influenced by which pseudo-scientific movement of the early 20th century?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Social Darwinism and Eugenics.",
+        "isCorrect": true,
+        "explanation": "The emphasis on 'pure stock' and 'breeding' reflects the eugenics movement, which sought to 'improve' the American population by restricting groups deemed inferior."
+      },
+      {
+        "id": "b",
+        "text": "The Transcendentalist movement.",
+        "isCorrect": false,
+        "explanation": "Transcendentalism was a mid-19th century philosophical movement focused on nature and intuition."
+      },
+      {
+        "id": "c",
+        "text": "The Social Gospel movement.",
+        "isCorrect": false,
+        "explanation": "The Social Gospel focused on applying Christian ethics to social problems, often advocating for the poor."
+      },
+      {
+        "id": "d",
+        "text": "The Temperance movement.",
+        "isCorrect": false,
+        "explanation": "The Temperance movement focused on the prohibition of alcohol."
+      }
+    ],
+    "period": "Period 7",
+    "topic": "1920s Nativism",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Content Knowledge"
+  },
+  {
+    "id": "q6-chinese-exclusion-economic",
+    "stimulus": {
+      "id": "s6-exclusion-act",
+      "sourceType": "text",
+      "sourceTitle": "Chinese Exclusion Act",
+      "sourceAuthor": "47th U.S. Congress",
+      "sourceDate": "1882",
+      "content": "The coming of Chinese laborers to this country endangers the good order of certain localities within the territory thereof... the coming of Chinese laborers to the United States be, and the same is hereby, suspended.",
+      "attribution": "United States Statutes at Large, 1882"
+    },
+    "questionText": "Which economic factor most contributed to the legal suspension of Chinese labor immigration in 1882?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The saturation of the market with cheap manufactured goods from China.",
+        "isCorrect": false,
+        "explanation": "The focus was on labor competition within the U.S., not international trade goods."
+      },
+      {
+        "id": "b",
+        "text": "Competition for jobs in mining and railroad construction during economic downturns.",
+        "isCorrect": true,
+        "explanation": "White workers blamed Chinese laborers for lower wages and job scarcity, especially after the Panic of 1873."
+      },
+      {
+        "id": "c",
+        "text": "The federal government's desire to promote the expansion of slavery in the West.",
+        "isCorrect": false,
+        "explanation": "The Exclusion Act was passed after the Civil War and the abolition of slavery."
+      },
+      {
+        "id": "d",
+        "text": "A shortage of skilled domestic labor in New England textile mills.",
+        "isCorrect": false,
+        "explanation": "There was no shortage causing anti-immigration sentiment; rather, it was a perceived surplus of 'low-cost' labor."
+      }
+    ],
+    "period": "Period 6",
+    "topic": "Economic Competition and Nativism",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Content Knowledge"
+  },
+  {
+    "id": "q7-harlem-renaissance-great-migration",
+    "stimulus": {
+      "id": "s7-migration",
+      "sourceType": "text",
+      "sourceTitle": "The Great Migration: An American Odyssey",
+      "sourceAuthor": "James Weldon Johnson",
+      "sourceDate": "1930",
+      "content": "Harlem has become the intellectual, the cultural and the financial center for Negroes of the United States, and will exert a mighty influence upon the entire race... It is the largest community in the world in which Negroes live together under a modern civilized environment.",
+      "attribution": "James Weldon Johnson, Black Manhattan, 1930"
+    },
+    "questionText": "Based on the passage, the cultural concentration in Harlem was a direct outcome of:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The military's desegregation during World War I.",
+        "isCorrect": false,
+        "explanation": "The military remained segregated until after WWII."
+      },
+      {
+        "id": "b",
+        "text": "Suburbanization following the passage of the G.I. Bill.",
+        "isCorrect": false,
+        "explanation": "The G.I. Bill and mass suburbanization occurred after WWII."
+      },
+      {
+        "id": "c",
+        "text": "The Great Migration of African Americans seeking industrial jobs and escaping Jim Crow.",
+        "isCorrect": true,
+        "explanation": "The movement from the rural South to Northern cities provided the demographic base for Harlem's cultural explosion."
+      },
+      {
+        "id": "d",
+        "text": "The Universal Declaration of Human Rights which outlawed segregation.",
+        "isCorrect": false,
+        "explanation": "This declaration was made by the UN in 1948, long after the Harlem Renaissance."
+      }
+    ],
+    "period": "Period 7",
+    "topic": "Modernism and the Harlem Renaissance",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Content Knowledge"
+  },
+  {
+    "id": "q8-carlisle-pratt-result",
+    "stimulus": {
+      "id": "s8-carlisle-photos",
+      "sourceType": "text",
+      "sourceTitle": "Before and After: Chiricahua Apache Students",
+      "sourceAuthor": "John N. Choate (Photographer)",
+      "sourceDate": "1886",
+      "content": "[The stimulus refers to the famous 'Before vs. After' photographs showing students in traditional Apache clothing vs. military-style school uniforms with short hair.]",
+      "attribution": "Carlisle Indian Industrial School Archives, 1886"
+    },
+    "questionText": "The transformation depicted in 'before and after' imagery used by schools like Carlisle was intended to prove to the American public that:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Native Americans could be successfully integrated into the industrial workforce.",
+        "isCorrect": true,
+        "explanation": "The photos were propaganda used to show that 'savages' could be 'civilized' and turned into productive, Westernized laborers."
+      },
+      {
+        "id": "b",
+        "text": "Indigenous cultures were superior in their architectural and artistic traditions.",
+        "isCorrect": false,
+        "explanation": "The goal was to show the 'superiority' of Western culture over Indigenous traditions."
+      },
+      {
+        "id": "c",
+        "text": "Native Americans had achieved complete equality in American politics.",
+        "isCorrect": false,
+        "explanation": "They did not have equality; the schools were part of a paternalistic and discriminatory system."
+      },
+      {
+        "id": "d",
+        "text": "The Reservation system was the most effective way to manage tribal lands.",
+        "isCorrect": false,
+        "explanation": "Carlisle was an 'off-reservation' school specifically designed to remove children from the reservation influence."
+      }
+    ],
+    "period": "Period 6",
+    "topic": "Education and Assimilation",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Inference"
+  },
+  {
+    "id": "q9-19th-amendment-result",
+    "stimulus": {
+      "id": "s9-19th-amendment",
+      "sourceType": "text",
+      "sourceTitle": "United States Constitution",
+      "sourceAuthor": "U.S. Congress",
+      "sourceDate": "1920",
+      "content": "The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex. Congress shall have power to enforce this article by appropriate legislation.",
+      "attribution": "19th Amendment to the U.S. Constitution, ratified 1920"
+    },
+    "questionText": "Despite the ratification of the 19th Amendment, which of the following groups remained largely disenfranchised in many Southern states through the use of literacy tests and poll taxes?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Native American men in Oklahoma.",
+        "isCorrect": false,
+        "explanation": "While they faced issues, the primary target of Jim Crow disenfranchisement in the South was African Americans."
+      },
+      {
+        "id": "b",
+        "text": "African American women.",
+        "isCorrect": true,
+        "explanation": "The 19th Amendment granted women the right to vote, but in the Jim Crow South, African American women (like men) faced extra-legal and legal barriers that effectively blocked their access to the ballot until the Voting Rights Act of 1965."
+      },
+      {
+        "id": "c",
+        "text": "Caucasian women in Northern cities.",
+        "isCorrect": false,
+        "explanation": "They generally gained immediate access to voting."
+      },
+      {
+        "id": "d",
+        "text": "Immigrants from Western Europe.",
+        "isCorrect": false,
+        "explanation": "Naturalized citizens from Western Europe typically did not face the same systematic disenfranchisement as racial minorities in the South."
+      }
+    ],
+    "period": "Period 7",
+    "topic": "Women's Suffrage and Jim Crow",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Inference"
+  },
+  {
+    "id": "q10-immigration-1890-baseline",
+    "stimulus": {
+      "id": "s10-johnson-reed",
+      "sourceType": "text",
+      "sourceTitle": "Immigration Act of 1924",
+      "sourceAuthor": "68th U.S. Congress",
+      "sourceDate": "1924",
+      "content": "The annual quota of any nationality shall be 2 per centum of the number of foreign-born individuals of such nationality resident in continental United States as determined by the United States census of 1890.",
+      "attribution": "The Johnson-Reed Act, 1890 Census Clause"
+    },
+    "questionText": "The use of the 1890 census as the baseline for immigration quotas, rather than a more recent census, was specifically intended to:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Increase immigration from the newly established Soviet Union.",
+        "isCorrect": false,
+        "explanation": "The act was aimed at restricting Eastern Europeans, many of whom were from the Soviet Union."
+      },
+      {
+        "id": "b",
+        "text": "Favor 'Old Immigrants' from Northern and Western Europe over 'New Immigrants' from Southern and Eastern Europe.",
+        "isCorrect": true,
+        "explanation": "The 1890 census predates the massive wave of immigration from Italy, Russia, and the Austro-Hungarian Empire. Shifting the baseline backwards ensured lower quotas for these 'new' immigrant groups."
+      },
+      {
+        "id": "c",
+        "text": "Accommodate the labor needs of the growing Sunbelt region.",
+        "isCorrect": false,
+        "explanation": "The term 'Sunbelt' describes a post-WWII development."
+      },
+      {
+        "id": "d",
+        "text": "Encourage the immigration of professionals and engineers in accordance with the Sputnik-era education goals.",
+        "isCorrect": false,
+        "explanation": "This refers to the Cold War era (late 1950s)."
+      }
+    ],
+    "period": "Period 7",
+    "topic": "1920s Nativism and Quotas",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Content Knowledge"
+  }
+]

@@ -816,42 +816,430 @@
     "difficulty": "Hard",
     "historicalThinkingSkill": "Content Knowledge"
   },
+  },
   {
-    "id": "q20-harlem-renaissance-locke-goal",
+    "id": "q21-anti-suffrage-patriotic",
     "stimulus": {
-      "id": "s20-locke-enter",
+      "id": "s21-anti",
       "sourceType": "text",
-      "sourceTitle": "Enter the New Negro",
-      "sourceAuthor": "Alain Locke",
-      "sourceDate": "1925",
-      "content": "...there is a fresh spiritual and cultural vitality reaching out to the world at large. We are achieving a psychological release from the sense of being a 'problem' to the sense of being a 'voice'.",
-      "attribution": "Alain Locke, Survey Graphic, 1925"
+      "sourceTitle": "Petition to the U.S. Senate",
+      "sourceAuthor": "National Association Opposed to Woman Suffrage",
+      "sourceDate": "1917",
+      "content": "At a time when our nation is engaged in a great struggle for the preservation of democracy abroad, it is unpatriotic for a minority of women to harass the government with demands for the ballot, which would only serve to divide our councils and distract our attention from the war.",
+      "attribution": "Anti-suffrage petition presented to Congress, 1917"
     },
-    "questionText": "The 'psychological release' described by Locke most directly relates to the goal of:",
+    "questionText": "The argument in the petition above was specifically used to criticize which group's activities during World War I?",
     "choices": [
       {
         "id": "a",
-        "text": "Seeking federal subsidies for agricultural cooperatives in the South.",
+        "text": "The National American Woman Suffrage Association (NAWSA) for their 'Winning Plan'.",
         "isCorrect": false,
-        "explanation": "Locke's focus was on urban cultural and intellectual development."
+        "explanation": "NAWSA actually supported the war effort to prove their patriotism."
       },
       {
         "id": "b",
-        "text": "Overcoming the internalized stigma of racial inferiority through artistic self-expression.",
+        "text": "The National Woman's Party (NWP) for picketing the White House during wartime.",
         "isCorrect": true,
-        "explanation": "The Harlem Renaissance sought to redefine the Black experience and challenge the idea that African Americans were merely a 'problem' to be solved by white society."
+        "explanation": "The NWP continued to picket and protest during WWI, leading anti-suffragists to label them as 'unpatriotic' or even 'pro-German' distractors."
       },
       {
         "id": "c",
-        "text": "Revising the 14th Amendment to exclude non-citizens from legal protections.",
+        "text": "The organizers of the 'Great Migration' for encouraging labor shortages.",
         "isCorrect": false,
-        "explanation": "Locke was an intellectual advocating for rights and culture, not restricting the 14th Amendment."
+        "explanation": "The Great Migration was an internal movement, not a suffrage-related harassment of the government."
       },
       {
         "id": "d",
-        "text": "Promoting the 'Atlanta Compromise' philosophy of Booker T. Washington.",
+        "text": "The leaders of the Prohibition movement for seeking a \u2018moral\u2019 distraction from the war.",
         "isCorrect": false,
-        "explanation": "Locke and the 'New Negro' thinkers often represented a more assertive and intellectual challenge to Washington's accommodationist views."
+        "explanation": "Prohibitionists successfully argued that their cause *aided* the war effort by saving grain."
+      }
+    ],
+    "period": "Period 7",
+    "topic": "Women's Suffrage",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Inference"
+  },
+  {
+    "id": "q22-suffrage-booker-t",
+    "stimulus": {
+      "id": "s22-btw",
+      "sourceType": "text",
+      "sourceTitle": "Editorial on Female Enfranchisement",
+      "sourceAuthor": "Booker T. Washington",
+      "sourceDate": "1908",
+      "content": "I have always felt that the best interests of the race would be served by focusing on industrial and economic advancement. Politics has often brought more trouble than benefit... I am not yet convinced that the ballot in the hands of women would change our condition for the better.",
+      "attribution": "Booker T. Washington, published editorial, 1908"
+    },
+    "questionText": "Booker T. Washington\u2019s reluctance toward women's suffrage, as expressed in the 1908 editorial, is consistent with his broader philosophy of:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Agitation for immediate social and political equality.",
+        "isCorrect": false,
+        "explanation": "This was the philosophy of W.E.B. Du Bois."
+      },
+      {
+        "id": "b",
+        "text": "Accommodation and emphasis on economic self-help over political rights.",
+        "isCorrect": true,
+        "explanation": "Washington consistently prioritized economic progress and vocational training ('industrial advancement') over the pursuit of political enfranchisement, which he saw as potentially provocative."
+      },
+      {
+        "id": "c",
+        "text": "The 'Talented Tenth' leading the masses through higher education.",
+        "isCorrect": false,
+        "explanation": "This was a Du Bois concept."
+      },
+      {
+        "id": "d",
+        "text": "Total separation of the races and a return to Africa.",
+        "isCorrect": false,
+        "explanation": "This was more closely associated with Marcus Garvey."
+      }
+    ],
+    "period": "Period 7",
+    "topic": "Women's Suffrage and Racial Philosophy",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Content Knowledge"
+  },
+  {
+    "id": "q23-great-migration-southern-reaction",
+    "stimulus": {
+      "id": "s23-telegraph",
+      "sourceType": "text",
+      "sourceTitle": "Macon Telegraph Editorial",
+      "sourceAuthor": "Unknown Editor",
+      "sourceDate": "1916",
+      "content": "Our fields are being left empty. The labor upon which our prosperity depends is being enticed away by the promise of high wages in the North. If this keeps up, the South will face an economic disaster of the first magnitude.",
+      "attribution": "Editorial, Macon Telegraph (Georgia), September 1916"
+    },
+    "questionText": "The 'economic disaster' feared by the Southern editorial was a response to which of the following?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The destruction of crops by the boll weevil and the Great Migration.",
+        "isCorrect": true,
+        "explanation": "The South faced a labor crisis as African Americans moved North for war-related industrial jobs, a movement accelerated by agricultural hardships like the boll weevil."
+      },
+      {
+        "id": "b",
+        "text": "The passage of the New Deal's Agricultural Adjustment Act.",
+        "isCorrect": false,
+        "explanation": "The AAA was passed in 1933, much later than the 1916 editorial."
+      },
+      {
+        "id": "c",
+        "text": "The mass deportation of agricultural workers to Mexico.",
+        "isCorrect": false,
+        "explanation": "There were no such mass deportations in 1916."
+      },
+      {
+        "id": "d",
+        "text": "The federal government\u2019s seizure of private land for military bases.",
+        "isCorrect": false,
+        "explanation": "While this happened, it was not the primary cause of the labor exodus described."
+      }
+    ],
+    "period": "Period 7",
+    "topic": "The Great Migration",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Inference"
+  },
+  {
+    "id": "q24-jacob-lawrence-migration",
+    "stimulus": {
+      "id": "s24-lawrence",
+      "sourceType": "text",
+      "sourceTitle": "The Migration Series, Panel 1",
+      "sourceAuthor": "Jacob Lawrence",
+      "sourceDate": "1940",
+      "content": "[The stimulus refers to Panel 1 depicting a crowded train station with gates leading to 'Chicago', 'New York', and 'St. Louis'.]",
+      "attribution": "Jacob Lawrence, Panel No. 1 from The Migration Series, 1940-41"
+    },
+    "questionText": "Lawrence\u2019s artwork reflects the experiences of migrants who were 'pushed' out of the South by:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The promise of integrated suburban housing in the North.",
+        "isCorrect": false,
+        "explanation": "This was a 'pull' factor, and housing was rarely integrated."
+      },
+      {
+        "id": "b",
+        "text": "Systemic violence, Jim Crow segregation, and lack of economic opportunity.",
+        "isCorrect": true,
+        "explanation": "Push factors included the harsh realities of life under Jim Crow and the economic limitations of the sharecropping system."
+      },
+      {
+        "id": "c",
+        "text": "The federal government\u2019s mandate for all citizens to move to industrial centers.",
+        "isCorrect": false,
+        "explanation": "There was no such mandate; the movement was voluntary and often discouraged by Southern authorities."
+      },
+      {
+        "id": "d",
+        "text": "The desire to join the military and serve in segregated units.",
+        "isCorrect": false,
+        "explanation": "While many served, the artwork specifically depicts the civilian migration to Northern cities."
+      }
+    ],
+    "period": "Period 7",
+    "topic": "The Great Migration",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Content Knowledge"
+  },
+  {
+    "id": "q25-harlem-renaissance-locke-vitality",
+    "stimulus": {
+      "id": "s25-locke",
+      "sourceType": "text",
+      "sourceTitle": "The New Negro",
+      "sourceAuthor": "Alain Locke",
+      "sourceDate": "1925",
+      "content": "For generations in the mind of America, the Negro has been a stock figure... a stereotype. But today, the younger generation is transforming that figure into a vibrant, self-respecting person who speaks for himself.",
+      "attribution": "Alain Locke, Introduction to The New Negro anthology, 1925"
+    },
+    "questionText": "The transformation Locke describes in 1925 was most enabled by which of the following?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The total integration of American universities in the 1920s.",
+        "isCorrect": false,
+        "explanation": "Universities remained largely segregated or exclusionary."
+      },
+      {
+        "id": "b",
+        "text": "The urban concentration of African Americans which fostered cultural and intellectual exchange.",
+        "isCorrect": true,
+        "explanation": "The Great Migration led to the creation of large, Black urban communities where artists and thinkers could collaborate and support one another."
+      },
+      {
+        "id": "c",
+        "text": "The federal government's funding of the Harlem Renaissance through the New Deal.",
+        "isCorrect": false,
+        "explanation": "The New Deal funding (like the Federal Writers' Project) came later, in the 1930s."
+      },
+      {
+        "id": "d",
+        "text": "The Supreme Court's decision in Brown v. Board of Education.",
+        "isCorrect": false,
+        "explanation": "This decision was made in 1954."
+      }
+    ],
+    "period": "Period 7",
+    "topic": "Harlem Renaissance",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Inference"
+  },
+  {
+    "id": "q26-womens-suffrage-1894-pamphlet",
+    "stimulus": {
+      "id": "s26-pamphlet",
+      "sourceType": "text",
+      "sourceTitle": "Do Women Want the Vote?",
+      "sourceAuthor": "Anti-Suffrage Committee",
+      "sourceDate": "1894",
+      "content": "Why should we double the ignorant vote? The vast majority of women do not desire the ballot. To force it upon them would be a violation of their natural rights to be protected from the burdens of political life.",
+      "attribution": "Anti-suffrage pamphlet, Massachusetts, 1894"
+    },
+    "questionText": "The argument that suffrage would 'double the ignorant vote' reflects which underlying tension in late 19th-century reform movements?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Fear that new voters (including immigrants and women) would destabilize the existing social order.",
+        "isCorrect": true,
+        "explanation": "Both anti-suffragists and nativists often used the 'ignorant vote' argument to oppose expansion of the franchise, fearing it would dilute the power of the 'established' elite."
+      },
+      {
+        "id": "b",
+        "text": "A commitment to universal education before any further political expansion.",
+        "isCorrect": false,
+        "explanation": "While education was a goal, the argument here is used specifically to *block* progress, not promote education."
+      },
+      {
+        "id": "c",
+        "text": "The belief that women were inherently more intelligent than men and should vote separately.",
+        "isCorrect": false,
+        "explanation": "The text argues the opposite\u2014that their vote would be 'ignorant' or burdensome."
+      },
+      {
+        "id": "d",
+        "text": "The Grange movement's push for agricultural subsidies.",
+        "isCorrect": false,
+        "explanation": "The Grange focused on farmers' economic rights and was generally more supportive of women's involvement."
+      }
+    ],
+    "period": "Period 7",
+    "topic": "Women's Suffrage",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Inference"
+  },
+  {
+    "id": "q27-suffrage-alice-paul-prison",
+    "stimulus": {
+      "id": "s27-paul",
+      "sourceType": "text",
+      "sourceTitle": "Diary Entry from Occoquan Workhouse",
+      "sourceAuthor": "Alice Paul",
+      "sourceDate": "1917",
+      "content": "They have started to force-feed me. It is a brutal process, but I will not give up the hunger strike. We are political prisoners, and we deserve the same rights we are fighting for on the outside.",
+      "attribution": "Alice Paul, records from the National Woman's Party, 1917"
+    },
+    "questionText": "The tactic of the hunger strike, as described by Alice Paul, was intended to:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Gaining public sympathy and focusing attention on the 'un-democratic' nature of the government.",
+        "isCorrect": true,
+        "explanation": "The NWP used these militant and high-profile tactics to create a 'crisis' that would force the government (and President Wilson) to support the amendment."
+      },
+      {
+        "id": "b",
+        "text": "Encouraging women to run for local office in Western states.",
+        "isCorrect": false,
+        "explanation": "The focus was on a federal constitutional amendment, not local office."
+      },
+      {
+        "id": "c",
+        "text": "Proving that women were physically stronger than men.",
+        "isCorrect": false,
+        "explanation": "The goal was political and moral, not a test of physical strength."
+      },
+      {
+        "id": "d",
+        "text": "Supporting the military's rationing efforts during the war.",
+        "isCorrect": false,
+        "explanation": "The hunger strike was a form of protest *against* the government, not support for its policies."
+      }
+    ],
+    "period": "Period 7",
+    "topic": "Women's Suffrage",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Inference"
+  },
+  {
+    "id": "q28-1920s-nativism-gilman",
+    "stimulus": {
+      "id": "s28-gilman",
+      "sourceType": "text",
+      "sourceTitle": "Is America Too Hospitable?",
+      "sourceAuthor": "Charlotte Perkins Gilman",
+      "sourceDate": "1923",
+      "content": "The stock which made this country is being overwhelmed by a flood of people who do not share our traditions, our history, or our blood. If we do not stop it, the American character will be lost forever.",
+      "attribution": "Charlotte Perkins Gilman, The Forum, 1923"
+    },
+    "questionText": "Gilman\u2019s xenophobic argument in 1923 is notable for occurring in which broader context of the 1920s?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The total disappearance of traditional gender roles in American society.",
+        "isCorrect": false,
+        "explanation": "Gender roles were shifting, but far from disappearing."
+      },
+      {
+        "id": "b",
+        "text": "The simultaneous rise of progressive feminism and exclusionary nativism.",
+        "isCorrect": true,
+        "explanation": "Gilman, a famous feminist, here advocates for nativism. This reflects a complex reality where some reformers held progressive views on one issue (e.g., gender) but exclusionary views on others (e.g., race/immigration)."
+      },
+      {
+        "id": "c",
+        "text": "The celebration of 'The Jazz Age' as a time of universal racial harmony.",
+        "isCorrect": false,
+        "explanation": "The 1920s were a time of intense racial and cultural conflict, despite the popularity of Black-influenced music."
+      },
+      {
+        "id": "d",
+        "text": "The federal government's decision to open all borders to post-war refugees.",
+        "isCorrect": false,
+        "explanation": "The 1920s saw the *closing* of borders through the quota acts."
+      }
+    ],
+    "period": "Period 7",
+    "topic": "1920s Nativism",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Content Knowledge"
+  },
+  {
+    "id": "q29-great-migration-industrial-labor",
+    "stimulus": {
+      "id": "s29-wages",
+      "sourceType": "text",
+      "sourceTitle": "Letter from a Migrant in Chicago",
+      "sourceAuthor": "Unknown",
+      "sourceDate": "1917",
+      "content": "I am making five dollars a day in the factory. Back home, I was lucky to make seventy-five cents. The work is hard, but here, my children can go to school and I can walk down the street with my head held high.",
+      "attribution": "Letter published in The Chicago Defender, 1917"
+    },
+    "questionText": "The migrant\u2019s description of his life in Chicago emphasizes that the Great Migration was driven by both:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The search for higher wages and the pursuit of social dignity.",
+        "isCorrect": true,
+        "explanation": "The letter explicitly mentions the massive wage difference ('$5 vs $0.75') and the social improvements ('head held high', education)."
+      },
+      {
+        "id": "b",
+        "text": "The desire to escape the Dust Bowl and the quest for free land.",
+        "isCorrect": false,
+        "explanation": "The Dust Bowl occurred in the 1930s and primarily affected farmers in the Great Plains, not the urban Great Migration of 1917."
+      },
+      {
+        "id": "c",
+        "text": "A mandate from the NAACP and a longing for agricultural life.",
+        "isCorrect": false,
+        "explanation": "The movement was largely individual/family-driven and led *away* from agricultural life."
+      },
+      {
+        "id": "d",
+        "text": "Supporting the Prohibition movement and finding a temperate society.",
+        "isCorrect": false,
+        "explanation": "The focus was on economic and social rights, not temperance."
+      }
+    ],
+    "period": "Period 7",
+    "topic": "The Great Migration",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Content Knowledge"
+  },
+  {
+    "id": "q30-harlem-renaissance-handy-memoir",
+    "stimulus": {
+      "id": "s30-handy",
+      "sourceType": "text",
+      "sourceTitle": "Father of the Blues",
+      "sourceAuthor": "W. C. Handy",
+      "sourceDate": "1941",
+      "content": "In Harlem, we found a world where our music was not just tolerated, but celebrated. We were no longer playing for 'them'\u2014we were playing for 'us', and the world was listening.",
+      "attribution": "W.C. Handy, Father of the Blues: An Autobiography, 1941"
+    },
+    "questionText": "Handy\u2019s reflection on the Harlem Renaissance underscores the era\u2019s significance in:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The commercialization of traditional European folk music.",
+        "isCorrect": false,
+        "explanation": "The focus was on Black-influenced genres like Blues and Jazz."
+      },
+      {
+        "id": "b",
+        "text": "The development of a distinct, self-assertive African American cultural identity.",
+        "isCorrect": true,
+        "explanation": "The phrase 'playing for us' highlights the shift toward self-expression and community-building within the Black community, which then captured global attention."
+      },
+      {
+        "id": "c",
+        "text": "The establishment of a government-run radio network to promote desegregation.",
+        "isCorrect": false,
+        "explanation": "There was no such government network in this era."
+      },
+      {
+        "id": "d",
+        "text": "The decline of urban centers due to the popularity of radio.",
+        "isCorrect": false,
+        "explanation": "Urban centers (like Harlem) were actually growing and thriving culturally during this time."
       }
     ],
     "period": "Period 7",

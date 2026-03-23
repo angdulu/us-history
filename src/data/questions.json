@@ -428,5 +428,435 @@
     "topic": "1920s Nativism and Quotas",
     "difficulty": "Hard",
     "historicalThinkingSkill": "Content Knowledge"
+  },
+  {
+    "id": "q11-chinese-exclusion-hal",
+    "stimulus": {
+      "id": "s11-hal",
+      "sourceType": "text",
+      "sourceTitle": "People v. Hall",
+      "sourceAuthor": "California Supreme Court",
+      "sourceDate": "1854",
+      "content": "The words 'Black person' must be held to include the whole of the Negro race; and... 'Indian' must be held to include the whole of the Mongolian race... No Black or Mulatto person, or Indian, shall be allowed to give evidence in favor of, or against a white man.",
+      "attribution": "Chief Justice Hugh Murray, People v. Hall, 1854"
+    },
+    "questionText": "The legal reasoning in People v. Hall (1854) most directly contributed to which of the following social dynamics in 19th-century California?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The integration of Chinese immigrants into the local judicial system.",
+        "isCorrect": false,
+        "explanation": "The ruling explicitly excluded Chinese immigrants from the judicial system by denying them the right to testify."
+      },
+      {
+        "id": "b",
+        "text": "The increased vulnerability of Chinese miners to violence and theft without legal recourse.",
+        "isCorrect": true,
+        "explanation": "By preventing non-whites from testifying against whites, the ruling effectively legalized crimes committed by white people against Chinese individuals if no white witnesses were present."
+      },
+      {
+        "id": "c",
+        "text": "The federal government's decision to grant citizenship to all residents of California.",
+        "isCorrect": false,
+        "explanation": "Citizenship was not granted to Chinese immigrants during this period; the 1882 Act later barred it."
+      },
+      {
+        "id": "d",
+        "text": "The rise of a multi-ethnic coalition of laborers that successfully overturned the ruling.",
+        "isCorrect": false,
+        "explanation": "Anti-Chinese sentiment amongst white laborers actually intensified after this period."
+      }
+    ],
+    "period": "Period 5",
+    "topic": "Asian Immigration and Legal Status",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Inference"
+  },
+  {
+    "id": "q12-chinese-exclusion-geary",
+    "stimulus": {
+      "id": "s12-geary",
+      "sourceType": "text",
+      "sourceTitle": "The Geary Act",
+      "sourceAuthor": "U.S. Congress",
+      "sourceDate": "1892",
+      "content": "All Chinese laborers within the limits of the United States shall be required to apply to the collector of internal revenue... for a certificate of residence; and any Chinese laborer... who shall be found within the jurisdiction of the United States without such certificate... shall be deemed to be unlawfully within the United States.",
+      "attribution": "Geary Act, Section 6, 1892"
+    },
+    "questionText": "The 1892 Geary Act represented a shift in immigration policy from the original 1882 Exclusion Act by:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Extending the exclusion to include Japanese and Korean immigrants.",
+        "isCorrect": false,
+        "explanation": "The Geary Act focused on renewing and strengthening the exclusion of Chinese immigrants specifically."
+      },
+      {
+        "id": "b",
+        "text": "Requiring a system of registration and internal surveillance for those already in the country.",
+        "isCorrect": true,
+        "explanation": "The Geary Act mandated that Chinese residents carry 'certificates of residence,' essentially internal passports, to prove their legal status."
+      },
+      {
+        "id": "c",
+        "text": "Ending the exclusion policy in exchange for trade concessions from the Qing Dynasty.",
+        "isCorrect": false,
+        "explanation": "The exclusion was made permanent in 1902 and not ended in 1892."
+      },
+      {
+        "id": "d",
+        "text": "Allowing Chinese laborers to apply for citizenship if they had resided in the U.S. for ten years.",
+        "isCorrect": false,
+        "explanation": "The act reinforced the prohibition on naturalization for Chinese immigrants."
+      }
+    ],
+    "period": "Period 6",
+    "topic": "Immigration Policy",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Content Knowledge"
+  },
+  {
+    "id": "q13-carlisle-letters",
+    "stimulus": {
+      "id": "s13-letters",
+      "sourceType": "text",
+      "sourceTitle": "Letter to her Father",
+      "sourceAuthor": "Maggie Stands Looking",
+      "sourceDate": "1881",
+      "content": "Dear Father, I am well and I like to be here... I have a new dress and I have my hair cut off. I do not look like an Indian girl anymore. I am learning to cook and to sew.",
+      "attribution": "Maggie Stands Looking, Student at Carlisle Indian Industrial School, 1881"
+    },
+    "questionText": "The transformation described in Maggie’s letter best illustrates the process of:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Cultural pluralism where multiple identities coexist equally.",
+        "isCorrect": false,
+        "explanation": "The letter emphasizes the loss of her former identity ('do not look like an Indian girl anymore')."
+      },
+      {
+        "id": "b",
+        "text": "Detribalization and the erasure of indigenous cultural markers.",
+        "isCorrect": true,
+        "explanation": "The cutting of hair and the adoption of Western clothing/domestic skills were central to the policy of detribalization."
+      },
+      {
+        "id": "c",
+        "text": "Economic empowerment through the preservation of traditional crafts.",
+        "isCorrect": false,
+        "explanation": "The skills being taught (cooking/sewing) were Western domestic skills, not traditional indigenous crafts."
+      },
+      {
+        "id": "d",
+        "text": "The government's recognition of tribal land rights in the West.",
+        "isCorrect": false,
+        "explanation": "The school was focused on individual assimilation, not tribal rights."
+      }
+    ],
+    "period": "Period 6",
+    "topic": "Native American Experience",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Inference"
+  },
+  {
+    "id": "q14-carlisle-pratt-motivation",
+    "stimulus": {
+      "id": "s14-pratt",
+      "sourceType": "text",
+      "sourceTitle": "The Indian Question",
+      "sourceAuthor": "Richard Henry Pratt",
+      "sourceDate": "1880",
+      "content": "It is a great mistake to think that the Indian is born a savage... He is born a blank sheet of paper. We can write upon that sheet what we will.",
+      "attribution": "Richard Henry Pratt, letter to the Commissioner of Indian Affairs, 1880"
+    },
+    "questionText": "Pratt’s belief that the 'Indian is born a blank sheet of paper' was used to justify:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The establishment of schools that would replace native culture with Euro-American values.",
+        "isCorrect": true,
+        "explanation": "The 'tabula rasa' (blank slate) argument allowed reformers to believe that if they intervened early enough (by removing children from families), they could completely overwrite their indigenous identity."
+      },
+      {
+        "id": "b",
+        "text": "The expansion of the reservation system to prevent contact with white settlers.",
+        "isCorrect": false,
+        "explanation": "Pratt advocated for integration into white society, not separation on reservations."
+      },
+      {
+        "id": "c",
+        "text": "The military's use of chemical weapons during the Plains Wars.",
+        "isCorrect": false,
+        "explanation": "This is historically inaccurate and unrelated to Pratt's educational philosophy."
+      },
+      {
+        "id": "d",
+        "text": "The preservation of Native American languages as a tool for diplomacy.",
+        "isCorrect": false,
+        "explanation": "Pratt's schools strictly forbade the use of native languages."
+      }
+    ],
+    "period": "Period 6",
+    "topic": "Native American Education",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Content Knowledge"
+  },
+  {
+    "id": "q15-chinese-exclusion-immigration-merchants",
+    "stimulus": {
+      "id": "s15-merchant",
+      "sourceType": "text",
+      "sourceTitle": "Letter to William Lloyd Garrison",
+      "sourceAuthor": "Wong Ar Chong",
+      "sourceDate": "1879",
+      "content": "Why is it that the Chinese alone are excluded? The Irish, the Germans, the Italians come and go as they please... We are honest, industrious, and peaceful... We pay our taxes and obey the laws.",
+      "attribution": "Wong Ar Chong, Chinese American Tea Merchant, 1879"
+    },
+    "questionText": "The argument made by Wong Ar Chong in 1879 highlights the contradiction between American democratic ideals and:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The federal government's support for the Transcontinental Railroad.",
+        "isCorrect": false,
+        "explanation": "While Chinese labor built the railroad, the stimulus focuses on the selective exclusion based on race."
+      },
+      {
+        "id": "b",
+        "text": "The emergence of racially-exclusive immigration policies.",
+        "isCorrect": true,
+        "explanation": "Wong Ar Chong points out the unfairness of targeting only Chinese immigrants while allowing European groups to enter freely, noting the conflict with American principles of equality."
+      },
+      {
+        "id": "c",
+        "text": "The rise of the populist movement in the rural South.",
+        "isCorrect": false,
+        "explanation": "The populist movement was largely unrelated to the specific arguments of Urban Chinese merchants."
+      },
+      {
+        "id": "d",
+        "text": "The Supreme Court's decision in the Insular Cases regarding territories.",
+        "isCorrect": false,
+        "explanation": "The Insular Cases occurred after 1898 and dealt with residents of Puerto Rico and the Philippines."
+      }
+    ],
+    "period": "Period 6",
+    "topic": "Immigration and Rights",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Inference"
+  },
+  {
+    "id": "q16-suffrage-du-bois",
+    "stimulus": {
+      "id": "s16-dubois",
+      "sourceType": "text",
+      "sourceTitle": "Woman Suffrage",
+      "sourceAuthor": "W. E. B. Du Bois",
+      "sourceDate": "1915",
+      "content": "The argument for woman suffrage is the same as the argument for Negro suffrage... those who are ruled should have a voice in the government. To deny the vote to women of color is to double their burden of disenfranchisement.",
+      "attribution": "W. E. B. Du Bois, Editorial in The Crisis, 1915"
+    },
+    "questionText": "The perspective of Du Bois in the 1915 editorial differs from many white suffragists in the South because he:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Argued that the 15th Amendment should be repealed before the 19th was passed.",
+        "isCorrect": false,
+        "explanation": "Du Bois was a staunch defender of the 15th Amendment."
+      },
+      {
+        "id": "b",
+        "text": "Emphasized the intersectionality of race and gender in the struggle for voting rights.",
+        "isCorrect": true,
+        "explanation": "Du Bois highlighted that women of color faced a 'double burden' and linked their struggle directly to the broader fight for racial justice, whereas many Southern white suffragists often used racist arguments to win support (e.g., claiming white women's votes would counter Black men's votes)."
+      },
+      {
+        "id": "c",
+        "text": "Advocated for women to focus solely on domestic improvements rather than political roles.",
+        "isCorrect": false,
+        "explanation": "Du Bois was in favor of full political enfranchisement for women."
+      },
+      {
+        "id": "d",
+        "text": "Believed that the 19th Amendment would automatically end Jim Crow segregation.",
+        "isCorrect": false,
+        "explanation": "Du Bois was well aware that constitutional amendments alone would not end systemic racism."
+      }
+    ],
+    "period": "Period 7",
+    "topic": "Women's Suffrage",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Inference"
+  },
+  {
+    "id": "q17-nativism-harding",
+    "stimulus": {
+      "id": "s17-harding",
+      "sourceType": "text",
+      "sourceTitle": "State of the Union Address",
+      "sourceAuthor": "Warren G. Harding",
+      "sourceDate": "1922",
+      "content": "Our immigration laws should be strengthened to ensure that those who come to our shores are capable of contributing to the American economy and understanding our institutions. Illiteracy and the lack of cultural affinity are barriers to true citizenship.",
+      "attribution": "President Warren G. Harding, Message to Congress, 1922"
+    },
+    "questionText": "Harding’s concern about 'cultural affinity' in 1922 was a precursor to which of the following legislative actions?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The repeal of the Chinese Exclusion Act.",
+        "isCorrect": false,
+        "explanation": "The Exclusion Act was not repealed until 1943."
+      },
+      {
+        "id": "b",
+        "text": "The passage of the Immigration Act of 1924 (Johnson-Reed Act).",
+        "isCorrect": true,
+        "explanation": "The 'cultural affinity' argument was used to justify the quota system that favored Northern and Western Europeans over ‘uncultured’ groups from the South and East."
+      },
+      {
+        "id": "c",
+        "text": "The creation of the Works Progress Administration (WPA).",
+        "isCorrect": false,
+        "explanation": "The WPA was part of the New Deal in the 1930s."
+      },
+      {
+        "id": "d",
+        "text": "The ratification of the 17th Amendment for direct election of Senators.",
+        "isCorrect": false,
+        "explanation": "The 17th Amendment was ratified in 1913."
+      }
+    ],
+    "period": "Period 7",
+    "topic": "1920s Nativism",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Content Knowledge"
+  },
+  {
+    "id": "q18-harlem-renaissance-poetry",
+    "stimulus": {
+      "id": "s18-hughes",
+      "sourceType": "text",
+      "sourceTitle": "Let America Be America Again",
+      "sourceAuthor": "Langston Hughes",
+      "sourceDate": "1935",
+      "content": "Let it be the dream it used to be. / Let it be the pioneer on the plain / Seeking a home where he himself is free. / (America never was America to me.)",
+      "attribution": "Langston Hughes, 'Let America Be America Again', 1935"
+    },
+    "questionText": "The parenthetical line '(America never was America to me.)' in the poem above serves to illustrate which central theme of the Harlem Renaissance?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The total rejection of American patriotic symbols in favor of communism.",
+        "isCorrect": false,
+        "explanation": "While Hughes had radical leanings, the poem as a whole calls for America to *become* its ideal, not just reject it."
+      },
+      {
+        "id": "b",
+        "text": "The critique of the gap between American ideals of freedom and the reality of life for Black Americans.",
+        "isCorrect": true,
+        "explanation": "This tension—the promise of American freedom vs. the reality of segregation and exclusion—was a defining theme of Renaissance art and literature."
+      },
+      {
+        "id": "c",
+        "text": "The belief that African Americans should return to Africa to find true liberty.",
+        "isCorrect": false,
+        "explanation": "This was the Marcus Garvey 'Back to Africa' position, distinct from the majority of Renaissance writers who sought a place *in* American culture."
+      },
+      {
+        "id": "d",
+        "text": "The celebration of material success following the Great Migration.",
+        "isCorrect": false,
+        "explanation": "The poem is a critique of the *lack* of success and freedom for 'the man who never has had a real chance.'"
+      }
+    ],
+    "period": "Period 7",
+    "topic": "Harlem Renaissance",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Inference"
+  },
+  {
+    "id": "q19-nativism-quota-1921",
+    "stimulus": {
+      "id": "s19-1921-act",
+      "sourceType": "text",
+      "sourceTitle": "Emergency Quota Law",
+      "sourceAuthor": "U.S. Congress",
+      "sourceDate": "1921",
+      "content": "The number of aliens of any nationality... shall be limited to 3 per centum of the number of foreign-born persons of such nationality resident in the United States as determined by the United States census of 1910.",
+      "attribution": "Emergency Quota Act, 1921"
+    },
+    "questionText": "The 1921 Emergency Quota Act differed from the later 1924 Johnson-Reed Act primarily in that it:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Used the 1910 census as a baseline, which was slightly less restrictive for Southern and Eastern Europeans than the 1890 baseline.",
+        "isCorrect": true,
+        "explanation": "By 1910, many 'New Immigrants' had already arrived. Shifting to the 1890 baseline in 1924 was a deliberate move to further exclude these groups."
+      },
+      {
+        "id": "b",
+        "text": "Allowed for unlimited immigration from Mexico and China.",
+        "isCorrect": false,
+        "explanation": "Chinese immigration was still excluded, and the act did not apply to the Western Hemisphere (Mexico)."
+      },
+      {
+        "id": "c",
+        "text": "Was passed as a temporary wartime measure during World War II.",
+        "isCorrect": false,
+        "explanation": "This was passed in 1921, shortly after World War I."
+      },
+      {
+        "id": "d",
+        "text": "Mandated that all immigrants speak English before arrival.",
+        "isCorrect": false,
+        "explanation": "While literacy tests were in place (since 1917), this specific act focused on numerical quotas."
+      }
+    ],
+    "period": "Period 7",
+    "topic": "1920s Nativism",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Content Knowledge"
+  },
+  {
+    "id": "q20-harlem-renaissance-locke-goal",
+    "stimulus": {
+      "id": "s20-locke-enter",
+      "sourceType": "text",
+      "sourceTitle": "Enter the New Negro",
+      "sourceAuthor": "Alain Locke",
+      "sourceDate": "1925",
+      "content": "...there is a fresh spiritual and cultural vitality reaching out to the world at large. We are achieving a psychological release from the sense of being a 'problem' to the sense of being a 'voice'.",
+      "attribution": "Alain Locke, Survey Graphic, 1925"
+    },
+    "questionText": "The 'psychological release' described by Locke most directly relates to the goal of:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Seeking federal subsidies for agricultural cooperatives in the South.",
+        "isCorrect": false,
+        "explanation": "Locke's focus was on urban cultural and intellectual development."
+      },
+      {
+        "id": "b",
+        "text": "Overcoming the internalized stigma of racial inferiority through artistic self-expression.",
+        "isCorrect": true,
+        "explanation": "The Harlem Renaissance sought to redefine the Black experience and challenge the idea that African Americans were merely a 'problem' to be solved by white society."
+      },
+      {
+        "id": "c",
+        "text": "Revising the 14th Amendment to exclude non-citizens from legal protections.",
+        "isCorrect": false,
+        "explanation": "Locke was an intellectual advocating for rights and culture, not restricting the 14th Amendment."
+      },
+      {
+        "id": "d",
+        "text": "Promoting the 'Atlanta Compromise' philosophy of Booker T. Washington.",
+        "isCorrect": false,
+        "explanation": "Locke and the 'New Negro' thinkers often represented a more assertive and intellectual challenge to Washington's accommodationist views."
+      }
+    ],
+    "period": "Period 7",
+    "topic": "Harlem Renaissance",
+    "difficulty": "Hard",
+    "historicalThinkingSkill": "Inference"
   }
 ]

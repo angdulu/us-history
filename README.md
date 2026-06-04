@@ -1,17 +1,17 @@
-# APUSH Quest 🎓⏳
+# US History Prep App (AP-Style Simulator) 🎓⏳
 
-An interactive, high-fidelity prep application designed specifically for **AP US History (APUSH)** students. It focuses on the most challenging aspect of the AP exam: **Stimulus-Based Multiple-Choice Questions (SBMCQs)**.
+An interactive, high-fidelity practice application designed for students in **regular US History** courses who want to challenge themselves with **AP-style Stimulus-Based Multiple-Choice Questions (SBMCQs)**. It helps students prepare for complex unit tests and final exams by practicing document analysis and historical reasoning.
 
 ---
 
 ## 💡 The Problem & The Solution
 
-The College Board's AP US History exam relies heavily on stimulus-based questions where students must analyze historical source material (primary documents, maps, treaties, political cartoons, or charts) to answer a cluster of analytical questions. Standard flashcard tools fail because they test raw recall instead of historical thinking skills.
+In standard US History courses, unit tests and final exams increasingly feature AP-style stimulus-based questions. These require students to analyze historical source material (primary documents, maps, treaties, political cartoons, or charts) rather than relying on simple rote memorization. 
 
-**APUSH Quest** provides a focused, highly interactive simulator for these questions:
-- **Curated High-Difficulty Dataset:** Houses 30 custom-developed, College Board-aligned stimulus-based question profiles spanning key historical eras and thematic periods.
+This app provides a focused practice simulator to master these test formats:
+- **Curated AP-Style Dataset:** Houses 30 custom-developed, stimulus-based question profiles spanning key historical eras and thematic periods to simulate exam-level rigor.
 - **Skill Mapping:** Tracks and exposes the specific **Historical Thinking Skill** tested in each item (e.g., *Contextualization, Comparison, Causation, Continuity & Change Over Time*).
-- **Interactive Rationale Engines:** When a choice is selected, the app highlights correct options in emerald green and incorrect options in rose red, displaying a detailed analysis card explaining the historical logic of the question.
+- **Interactive Rationale Engines:** When a choice is selected, the app highlights correct options in emerald green and incorrect options in rose red, displaying a detailed analysis card explaining the historical logic of the question to ensure students learn from mistakes before their finals.
 
 ---
 

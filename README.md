@@ -9,7 +9,7 @@ An interactive, high-fidelity practice application designed for students in **re
 In standard US History courses, unit tests and final exams increasingly feature AP-style stimulus-based questions. These require students to analyze historical source material (primary documents, maps, treaties, political cartoons, or charts) rather than relying on simple rote memorization. 
 
 This app provides a focused practice simulator to master these test formats:
-- **Curated AP-Style Dataset:** Houses 30 custom-developed, stimulus-based question profiles spanning key historical eras and thematic periods to simulate exam-level rigor.
+- **Curated AP-Style Dataset:** Houses 29 custom-developed, stimulus-based question profiles spanning key historical eras and thematic periods to simulate exam-level rigor.
 - **Skill Mapping:** Tracks and exposes the specific **Historical Thinking Skill** tested in each item (e.g., *Contextualization, Comparison, Causation, Continuity & Change Over Time*).
 - **Interactive Rationale Engines:** When a choice is selected, the app highlights correct options in emerald green and incorrect options in rose red, displaying a detailed analysis card explaining the historical logic of the question to ensure students learn from mistakes before their finals.
 
